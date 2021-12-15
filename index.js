@@ -1,3 +1,3 @@
 function carregamentoPagina() {
-    alert("Mensagem apresentada no carregamento do sistema");
+    alert("Mensagem apresentada no carregamento do sistema ");
 }
