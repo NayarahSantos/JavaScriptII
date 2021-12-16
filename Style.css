@@ -1,5 +1,14 @@
 body{
-    background: rgb(29, 143, 29);
+    background: rgb(140, 127, 216);
     font: Arial;
     font-size: 1.2rem;
+}
+
+.align-right {
+    display: flex; 
+    justify-content: flex-end;
+}
+
+.align-right button {
+    margin-top: 30px;
 }
